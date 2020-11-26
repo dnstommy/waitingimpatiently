@@ -1,3 +1,3 @@
-/this-is-a-301-redirect              /xdb-tracker-identifier-missing    301
-/this-is-a-302-redirect              /xdb-tracker-identifier-missing    302
-/xdb-tracker             /xdb-tracker-identifier-missing    400
+/this-is-a-301-redirect              /blog/xdb-tracker-identifier-missing    301
+/this-is-a-302-redirect              /blog/xdb-tracker-identifier-missing    302
+/xdb-tracker             /blog/xdb-tracker-identifier-missing    400
